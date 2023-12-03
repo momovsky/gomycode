@@ -1,0 +1,17 @@
+VAR 
+str STRING[50]
+i,j,k:INTEGER:0
+BEGIN
+Write("salut tous le monde.");
+While(i<str.length) Do
+IF str[i] = '' Alors
+	j=j+1
+ENDIF
+
+Write("nbr des mots est : " j);
+
+IF str[i]="a" OR str[i] ="e"	...... voyelle
+	k=k+1
+ENDIF
+
+Write("nbr des voyelle : " k);
