@@ -15,3 +15,7 @@ IF str[i]="a" OR str[i] ="e"	...... voyelle
 ENDIF
 
 Write("nbr des voyelle : " k);
+
+
+TEST
+TEST
